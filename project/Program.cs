@@ -12,6 +12,12 @@ namespace Project
 
         string[] directoryNames = {"AnaKaynaklar","Arşiv","CS_audit","Denetim","Education_Consultanty_Materials"};
 
+        string[] allowedUsers = {"kadir", "Aüstad","Büstad"};
+
+        string username = Environment.UserName;
+
+        if (Array.Exists(allowedUsers, element => element == username)){
+
         try
         {
             foreach (var directory in directoryNames)
@@ -24,6 +30,7 @@ namespace Project
             
             Console.WriteLine("dosya oluşturulurken bir hata alındı" + ex.Message);
         }
+    }
     }
     }
 }
