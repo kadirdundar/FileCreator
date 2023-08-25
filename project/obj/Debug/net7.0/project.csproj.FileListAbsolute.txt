@@ -1,0 +1,15 @@
+/Users/kadirdundar/Desktop/projeKuveyt/project/bin/Debug/net7.0/project
+/Users/kadirdundar/Desktop/projeKuveyt/project/bin/Debug/net7.0/project.deps.json
+/Users/kadirdundar/Desktop/projeKuveyt/project/bin/Debug/net7.0/project.runtimeconfig.json
+/Users/kadirdundar/Desktop/projeKuveyt/project/bin/Debug/net7.0/project.dll
+/Users/kadirdundar/Desktop/projeKuveyt/project/bin/Debug/net7.0/project.pdb
+/Users/kadirdundar/Desktop/projeKuveyt/project/obj/Debug/net7.0/project.csproj.AssemblyReference.cache
+/Users/kadirdundar/Desktop/projeKuveyt/project/obj/Debug/net7.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadirdundar/Desktop/projeKuveyt/project/obj/Debug/net7.0/project.AssemblyInfoInputs.cache
+/Users/kadirdundar/Desktop/projeKuveyt/project/obj/Debug/net7.0/project.AssemblyInfo.cs
+/Users/kadirdundar/Desktop/projeKuveyt/project/obj/Debug/net7.0/project.csproj.CoreCompileInputs.cache
+/Users/kadirdundar/Desktop/projeKuveyt/project/obj/Debug/net7.0/project.dll
+/Users/kadirdundar/Desktop/projeKuveyt/project/obj/Debug/net7.0/refint/project.dll
+/Users/kadirdundar/Desktop/projeKuveyt/project/obj/Debug/net7.0/project.pdb
+/Users/kadirdundar/Desktop/projeKuveyt/project/obj/Debug/net7.0/project.genruntimeconfig.cache
+/Users/kadirdundar/Desktop/projeKuveyt/project/obj/Debug/net7.0/ref/project.dll
